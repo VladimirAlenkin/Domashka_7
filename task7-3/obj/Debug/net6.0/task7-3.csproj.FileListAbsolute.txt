@@ -1,0 +1,15 @@
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\bin\Debug\net6.0\task7-3.exe
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\bin\Debug\net6.0\task7-3.deps.json
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\bin\Debug\net6.0\task7-3.runtimeconfig.json
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\bin\Debug\net6.0\task7-3.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\bin\Debug\net6.0\task7-3.pdb
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.csproj.AssemblyReference.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.AssemblyInfoInputs.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.AssemblyInfo.cs
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.csproj.CoreCompileInputs.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\refint\task7-3.dll
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.pdb
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\task7-3.genruntimeconfig.cache
+C:\Users\tvMof\Desktop\Учёба\C#\Domashka7\task7-3\obj\Debug\net6.0\ref\task7-3.dll
